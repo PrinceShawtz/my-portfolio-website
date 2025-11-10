@@ -72,7 +72,7 @@ export const PROJECTS_DATA: Project[] = [
     category: 'Frontend & Design',
     image: 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=800',
     span: 'col-span-1',
-    link: '#',
+    link: 'https://github.com/PrinceShawtz/my-portfolio-website',
   },
 ];
 
