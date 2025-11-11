@@ -143,7 +143,7 @@ export const EXPERIENCE_DATA: Experience[] = [
     {
         role: 'Backend Developer',
         company: 'Revature',
-        duration: 'January 2021 - July 2023',
+        duration: 'January 2021 - July 2024',
         description: [
             'Built RESTful APIs using Java and Spring Boot with TDD, improving backend reliability and reducing post-deployment bugs by 45%.',
             'Collaborated in agile sprints to ship features 20% faster using Git, Maven, and code reviews.',
