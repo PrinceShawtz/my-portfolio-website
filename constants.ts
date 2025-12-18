@@ -130,34 +130,43 @@ export interface Experience {
 
 export const EXPERIENCE_DATA: Experience[] = [
     {
-        role: 'Cloud & DevOps Engineer',
-        company: 'Tech Consulting',
-        duration: 'July 2024 - Present',
-        description: [
-            'Built and automated CI/CD pipelines using Azure DevOps, Jenkins, Helm, and Terraform, streamlining deployments.',
-            'Deployed and managed Kubernetes (AKS/EKS) clusters with Istio service mesh, integrating monitoring via Prometheus & Grafana.',
-            'Automated infrastructure provisioning with Terraform & Ansible, cutting setup time by 50%.',
-            'Enhanced security posture with Azure AD, Key Vault, Sentinel, RBAC, and MFA, and implemented governance policies.',
-        ],
-    },
-    {
-        role: 'Backend Developer',
+        role: 'Senior Backend Engineer',
         company: 'Revature',
-        duration: 'January 2021 - July 2024',
+        duration: 'Jan 2025 - Present',
         description: [
-            'Built RESTful APIs using Java and Spring Boot with TDD, improving backend reliability and reducing post-deployment bugs by 45%.',
-            'Collaborated in agile sprints to ship features 20% faster using Git, Maven, and code reviews.',
-            'Wrote unit and integration tests with JUnit and Mockito, achieving 85% test coverage and improving code maintainability.',
+            'Backend Leadership: Led a team to develop secure Node.js APIs integrated with DB2, improving data integrity and boosting response times by 30%.',
+            'Infrastructure & Architecture: Architected Java-based backend services for health insurance platforms and implemented AWS cloud solutions that reduced system downtime by 15%.',
+            'Efficiency & Quality: Optimized application performance using TypeScript and GraphQL, while designing comprehensive tests that improved live error detection by 20%.',
         ],
     },
     {
-        role: 'Software Developer',
-        company: 'Lunar Launch Labs (L^3)',
-        duration: 'June 2018 - December 2021',
+        role: 'Senior Software Engineer',
+        company: 'M46 Brands',
+        duration: 'April 2021 - Oct 2024',
         description: [
-            'Designed and implemented dynamic web interfaces with React, improving user interaction and engagement by 25%.',
-            'Automated deployment and testing processes via CI/CD pipelines using Jenkins and GitLab CI, reducing manual errors by 40%.',
-            'Deployed full-stack applications across AWS, Azure, and Google Cloud, enhancing system availability and scalability.',
+            'Cloud & Reliability: Spearheaded AWS cloud implementations to achieve 99.9% uptime and reduce operational costs across full-stack Java and React applications.',
+            'Performance Engineering: Engineered GraphQL-based data services that expedited integration processes and improved overall system performance by 35%.',
+            'Process Improvement: Led the adoption of Agile Methodologies, resulting in a 25% increase in team productivity and faster delivery cycles.',
         ],
     },
+    {
+        role: 'Full Stack Engineer',
+        company: 'Macrosoft',
+        duration: 'Mar 2019 - December 2020',
+        description: [
+            'Cloud Automation: Developed AWS deployment strategies that utilized automation to reduce deployment timeframes by 40%.',
+            'User Engagement: Delivered Node.js and React solutions alongside user-friendly HTML/CSS interfaces, resulting in a 30% increase in user engagement.',
+            'Security & Data: Optimized database retrieval times using DB2 and enhanced platform trustworthiness through robust API design and encryption practices',
+        ],
+    },
+    {
+        role: 'Software Engineer',
+        company: 'Lunar Launch Labs (L^3)',
+        duration: 'April 2018 - December 2018',
+        description: [
+            'Full-Stack Development: Contributed to Java and React applications while developing responsive web designs to optimize accessibility and user engagement.',
+            'Infrastructure Support: Played a key role in setting up AWS infrastructure and GraphQL services to improve the reliability and scalability of data exchanges.',
+            'Collaborative Delivery: Worked within cross-functional teams using Agile sprints and version control to ensure consistent project delivery and codebase traceability.',
+        ],
+    },  
 ];
